@@ -1,34 +1,24 @@
 h2 {
     text-align : center;
-    margin : 20px;
+    margin : 2rem;
     font-size : 1.5rem;
 }
+
+.card {
+    width : 18rem ;   
+    margin : 5rem; 
+}
+
+.card-1{
+    background-color: rgba(229, 229, 194, 0.951);
+}
+
 
 .d-block{
     width : 100%;
     height : 100%;
 }
 
-.card {
-    width : 18rem ; 
-}
-
-.card-1{
-    background-color: #yellow;
-    padding-right : 50rem; 
-}
-
-#col0{
-    background-color : gray;
-    text-align: center;
-}
-
-#col2{
-    background-color : blue;
-}
-#col3{
-    background-color : green;
-}
 #col4{
     background-color : yellow;
 }

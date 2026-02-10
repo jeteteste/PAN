@@ -28,7 +28,7 @@
 		</div>
 		<div class="row">
 			<div class="col-4 mb-3 sm-2" >
-				<div class="card" class="card-1">
+				<div class="card">
 					<div class="card-body">
 						<h5 class="card-title">Carte 1</h5>
 						<p class="card-text">Description de la carte 1.</p>
