@@ -3,11 +3,9 @@
 
 <head>
 	<meta charset="utf-8" />
-	<link rel=stylesheet href="bootstrap">
+	<link rel="shortcut icon" href="logo_pan.png">
 	<link rel=stylesheet href="bootstrap/css/bootstrap.css">
 	<link rel="stylesheet" type="text/css" href="index.css">
-	<link rel="icon" type="image/png" sizes="32x32" href="logo_pan.png">
-
 	<title>Portail des Antiquités Numériques</title>
 </head>
 <header>
