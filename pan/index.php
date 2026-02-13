@@ -90,26 +90,7 @@
 	</div>
 
 
-	<div class="card-deck">
-			<div class="card" style=" background-color: #e9ecef;">
-				<div class="card-body">
-					<h5 class="card-title">Carte 1</h5>
-					<p class="card-text">Description de la carte 1.</p>
-				</div>
-			</div>
-			<div class="card" style="background-color: #0e5194;">
-				<div class="card-body">
-					<h5 class="card-title">Carte 2</h5>
-					<p class="card-text">Description de la carte 2.</p>
-				</div>
-			</div>
-			<div class="card" style=" background-color: #c16d07;">
-				<div class="card-body">
-					<h5 class="card-title">Carte 3</h5>
-					<p class="card-text">Description de la carte 3.</p>
-				</div>
-			</div>
-	</div>
+
 
 
 	<!-- pour les animations -->
